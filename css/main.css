@@ -53,6 +53,7 @@
     border: 5px solid black;
     width: 725px;
     padding: 0px 15px;
+    background-color: white;
   }
 
   ol {
@@ -69,5 +70,12 @@
     margin-bottom: 50px;
     margin-left: 20px;
     width: 725px;
+
+  }
+
+  img {
+    width: 600px;
+    height: auto;
+    border: solid black 3px;
   }
 
