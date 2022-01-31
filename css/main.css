@@ -103,6 +103,22 @@
     background-color: black;
   }
 
-  section.recap {
-    padding-top: 30px;
+  section.menu {
+    border: 5px solid black;
+    width: fit-content;
+    height: fit-content;
+    background-color: black;
+  }
+
+  h3.menu {
+    margin: 0px;
+  }
+
+  table.menu {
+    background-color: white;
+  }
+
+  .nav {
+    background-color: black;
+    color: white;
   }
