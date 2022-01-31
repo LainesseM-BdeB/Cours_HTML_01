@@ -1,125 +1,125 @@
-  @font-face {
-    font-family: "Montserrat Regular";
-    src: url("font/Montserrat-Regular.ttf");
-    font-weight: normal;
-  }
+@font-face {
+  font-family: "Montserrat Regular";
+  src: url("font/Montserrat-Regular.ttf");
+  font-weight: normal;
+}
 
-  @font-face {
-    font-family: "Montserrat Bold";
-    src: url("font/Montserrat-Bold.ttf");
-    font-weight: bold;
-  }
+@font-face {
+  font-family: "Montserrat Bold";
+  src: url("font/Montserrat-Bold.ttf");
+  font-weight: bold;
+}
 
-  @font-face {
-    font-family: "Montserrat Black";
-    src: url("font/Montserrat-Black.ttf");
-    font-weight: bold;
-  }
+@font-face {
+  font-family: "Montserrat Black";
+  src: url("font/Montserrat-Black.ttf");
+  font-weight: bold;
+}
 
-  @font-face {
-    font-family: "Montserrat Light";
-    src: url("font/Montserrat-Light.ttf");
-    font-weight: normal;
-  }
+@font-face {
+  font-family: "Montserrat Light";
+  src: url("font/Montserrat-Light.ttf");
+  font-weight: normal;
+}
 
-  body {
-    color: black;
-    background-color: white;
-    font-family: "Montserrat Light", serif;
-  }
+body {
+  color: black;
+  background-color: white;
+  font-family: "Montserrat Light", serif;
+}
 
-  h1 {
-    background-color: black;
-    color: white;
-    font-size: 50px;
-    font-family: "Montserrat Bold", serif;
-    width: fit-content;
-    padding: 5px 15px;
-  }
+h1 {
+  background-color: black;
+  color: white;
+  font-size: 50px;
+  font-family: "Montserrat Bold", serif;
+  width: fit-content;
+  padding: 5px 15px;
+}
 
-  h2 {
-    font-family: "Montserrat Regular", serif;
-  }
+h2 {
+  font-family: "Montserrat Regular", serif;
+}
 
-  h3 {
-    background-color: black;
-    color: white;
-    font-family: "Montserrat Bold", serif;
-    width: fit-content;
-    padding: 3px 7px;
-  }
+h3 {
+  background-color: black;
+  color: white;
+  font-family: "Montserrat Bold", serif;
+  width: fit-content;
+  padding: 3px 7px;
+}
 
-  div {
-    border: 5px solid black;
-    width: 725px;
-    padding: 0px 15px;
-    background-color: white;
-  }
+div {
+  border: 5px solid black;
+  width: 725px;
+  padding: 0px 15px;
+  background-color: white;
+}
 
-  ol.main {
-    border-left: 5px solid black;
-    border-right: 5px solid black;
-    width: fit-content;
-    padding-right: 25px;
-  }
+ol.main {
+  border-left: 5px solid black;
+  border-right: 5px solid black;
+  width: fit-content;
+  padding-right: 25px;
+}
 
-  hr {
-    height: 30px;
-    background-color: black;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-left: 20px;
-    width: 725px;
+hr {
+  height: 30px;
+  background-color: black;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 20px;
+  width: 725px;
 
-  }
+}
 
-  img {
-    width: 600px;
-    height: auto;
-    border: solid black 3px;
-  }
+img {
+  width: 600px;
+  height: auto;
+  border: solid black 3px;
+}
 
-  table {
-    text-align: center;
-    padding: 10px;
-    border-spacing: 0;
-    border-collapse: collapse;
-  }
+table {
+  text-align: center;
+  padding: 10px;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
 
-  td {
-    width: max-content;
-    padding-left: 10px;
-    padding-right: 10px;
-    border: 2px solid dimgrey;
-  }
+td {
+  width: max-content;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 2px solid dimgrey;
+}
 
-  th {
-    width: max-content;
-    padding-left: 10px;
-    padding-right: 10px;
-    border: 2px solid dimgrey;
-    font-family: "Montserrat Regular", serif;
-    color: white;
-    background-color: black;
-  }
+th {
+  width: max-content;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 2px solid dimgrey;
+  font-family: "Montserrat Regular", serif;
+  color: white;
+  background-color: black;
+}
 
-  section.menu {
-    border: 5px solid black;
-    width: fit-content;
-    height: fit-content;
-    background-color: black;
-  }
+section.menu {
+  border: 5px solid black;
+  width: fit-content;
+  height: fit-content;
+  background-color: black;
+}
 
-  h3.menu {
-    margin: 0px;
-  }
+h3.menu {
+  margin: 0px;
+}
 
-  table.menu {
-    background-color: white;
-  }
+table.menu {
+  background-color: white;
+}
 
-  .nav {
-    background-color: black;
-    color: white;
-    padding: 5px;
-  }
+.nav {
+  background-color: black;
+  color: white;
+  padding: 5px;
+}
